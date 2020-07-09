@@ -16,3 +16,7 @@ How The Game Works Itself:
 - Pressed button is pushed to guessedAnimal array and happens that is written previously.
 - As the letter is displayed now in the animalChosen array, it is updated with an onclick event when a user pushes a button.
 - At the end a gameOver function run that is a mistake counter that will popup an alertwindow upon the number of mistakes reach 6(maxWrongAns).
+
+
+![HangmanGameover](https://user-images.githubusercontent.com/55841911/87067479-00616380-c20c-11ea-9be9-d24029cb918b.png)
+![HangmanGame](https://user-images.githubusercontent.com/55841911/87067483-02c3bd80-c20c-11ea-92c9-1aae16b9dc3e.png)
